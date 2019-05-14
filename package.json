@@ -34,8 +34,9 @@
   "dependencies": {
     "aws-sdk": "^2.1.48",
     "core-object": "^2.0.6",
+    "ember-cli-babel": "^7.7.3",
     "ember-cli-deploy-plugin": "^0.2.9",
     "mime-types": "^2.1.9",
-    "rsvp": "^3.0.18"
+    "rsvp": "^3.6.2"
   }
 }
